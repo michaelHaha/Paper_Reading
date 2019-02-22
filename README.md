@@ -8,5 +8,6 @@ Here is a Repository for recording all papers I want to read and have read. A pl
 
 ## Gait Recognition
 - GaitSet: Regarding Gait as a Set for Cross-View Gait Recognition [[pdf]](https://arxiv.org/pdf/1811.06186.pdf)
+- A Comprehensive Study on Cross-View Gait Based Human Identiﬁcation with Deep CNNs [[pdf]](http://www.ee.cuhk.edu.hk/~xgwang/papers/wuHWWTtpami16.pdf)
 
 ## DL theory and tricks
