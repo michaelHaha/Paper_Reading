@@ -11,3 +11,6 @@ Here is a Repository for recording all papers I want to read and have read. A pl
 - A Comprehensive Study on Cross-View Gait Based Human Identiﬁcation with Deep CNNs [[pdf]](http://www.ee.cuhk.edu.hk/~xgwang/papers/wuHWWTtpami16.pdf)
 
 ## DL theory and tricks
+
+## Transfer Learning
+- A Survey on Transfer Learning [[pdf]](https://ieeexplore.ieee.org/abstract/document/5288526)
